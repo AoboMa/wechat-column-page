@@ -1,0 +1,39 @@
+{
+    "editor.rulers": [80,100],
+
+    // 控制字体系列。
+    "editor.fontFamily": "'WenQuanYi Zen Hei Mono', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    // 控制字体粗细。
+    "editor.fontWeight": "normal",
+    // 以像素为单位控制字号。
+    "editor.fontSize": 15,
+
+    // Path to Python, you can use a custom version of Python by modifying this setting to include the full path.
+    "python.pythonPath": "python3",
+
+    // Path to folder with a list of Virtual Environments (e.g. ~/.pyenv, ~/Envs, ~/.virtualenvs).
+    "python.venvPath": "/usr/local/envs/wechat-blog/bin/python3.5",
+
+    // List of paths to libraries and the like that need to be imported by auto complete engine. E.g. when using Google App SDK, the paths are not in system path, hence need to be added into this list.
+    "python.autoComplete.extraPaths": [],
+    "workbench.sideBar.location": "left",
+
+    // vetur
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+
+    // eslint
+    "eslint.validate": [
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    "eslint.options": {
+        "plugins": ["html"]
+    },
+    "workbench.colorTheme": "One Dark Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.icons": "specific"
+}
