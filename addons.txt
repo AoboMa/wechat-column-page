@@ -1,0 +1,18 @@
+Bootstrap 3 Snippets
+Eclipse Keymap
+ESLint
+Font-awesome codes for html
+Git History
+HTML Snippets
+jQuery Code Snippets
+Material Icon Theme
+Node modules resolve
+One Dark Theme
+One Monokai Theme
+open-in-browser
+Output Colorizer
+Path Intellisense
+Python
+TSLint
+Vetur
+Webpack
